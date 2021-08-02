@@ -1,4 +1,10 @@
 ## Oiii! Eu sou o Rodrigo Gomes
+
+
+Trainee em desenvolvimento web, meu objetivo é ser Fullstack, também tenho interesse na área de Segurança da Informação, estou sempre em busca de novos conhecimentos e de atingir meus objetivos.
+
+##
+
  <div>
   <a href="https://github.com/RodrigoGomesS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoGomesS&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
