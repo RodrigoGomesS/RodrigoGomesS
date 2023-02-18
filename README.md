@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Rodrigo Gomes
 
 
-Trainee em desenvolvimento web, meu objetivo é ser Fullstack, também tenho interesse na área de Segurança da Informação, estou sempre em busca de novos conhecimentos e de atingir meus objetivos.
+Desenvolvedor web, também tenho interesse na área de Segurança da Informação, estou sempre em busca de novos conhecimentos e de atingir meus objetivos. Tenho como linguagem principal PHP, mas estou estudando javascript para backend com o objetivo de trabalhar com novas ferramentas. 
 
 ##
 
