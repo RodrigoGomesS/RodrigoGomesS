@@ -1,7 +1,6 @@
 ## Oiii! Eu sou o Rodrigo Gomes
 
-
-Desenvolvedor web, também tenho interesse na área de Segurança da Informação, estou sempre em busca de novos conhecimentos e de atingir meus objetivos. Tenho como linguagem principal PHP, mas estou estudando javascript para backend com o objetivo de trabalhar com novas ferramentas. 
+Sou um desenvolvedor web com interesse especial em Segurança da Informação, sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente. Minha linguagem principal é o PHP, mas também estou estudando Javascript para o backend e outras ferramentas. Além disso, tenho um interesse particular em desenvolvimento de jogos e aplicativos mobile. Estou comprometido em me aprimorar constantemente para oferecer o melhor em cada projeto e desafio que enfrento.
 
 ##
 
@@ -16,9 +15,15 @@ Desenvolvedor web, também tenho interesse na área de Segurança da Informaçã
   <img align="center" alt="rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rod-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="rod-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="rod-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" />
   <img align="center" alt="rod-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="rod-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="rod-sequelize.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+   <img align="center" alt="rod-sequelize.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+   <img align="center" alt="rod-sequelize.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img align="center" alt="rod-sequelize.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+   <img align="center" alt="rod-sequelize.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
 </div>
   
   ##
