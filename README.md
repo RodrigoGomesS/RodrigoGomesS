@@ -1,6 +1,8 @@
 ## Oiii! Eu sou o Rodrigo Gomes
 
-Sou um desenvolvedor web com interesse especial em Segurança da Informação, sempre buscando novos conhecimentos e oportunidades para crescer profissionalmente. Minha linguagem principal é o PHP, mas também estou estudando Javascript para o backend e outras ferramentas. Além disso, tenho um interesse particular em desenvolvimento de jogos e aplicativos mobile. Estou comprometido em me aprimorar constantemente para oferecer o melhor em cada projeto e desafio que enfrento.
+Com experiência sólida em desenvolvimento web, especializei-me em PHP e tenho grande interesse por Cloud e DevOps. Atualmente, estou expandindo meus conhecimentos em JavaScript para back-end e aprimorando minhas habilidades para construir sistemas cada vez mais escaláveis e eficientes.
+
+Minha abordagem se baseia em entregar código limpo, seguro e otimizado, sempre buscando inovação e aprendizado contínuo. Sou movido por desafios que me fazem evoluir profissionalmente e estou aberto a novas oportunidades para colaborar em projetos que impactam positivamente o mercado.
 
 ##
 
